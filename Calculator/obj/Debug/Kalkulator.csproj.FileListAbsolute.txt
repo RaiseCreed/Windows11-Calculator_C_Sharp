@@ -1,0 +1,11 @@
+C:\Users\Dominik\WSG\C#\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Dominik\WSG\C#\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dominik\WSG\C#\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Dominik\WSG\C#\Kalkulator\obj\Debug\Kalkulator.pdb
